@@ -1,0 +1,15 @@
+run:
+Choose. Factorial / Fibonacci?
+Factorial
+Choose. Factorial / Fibonacci?
+factorial
+Enter size of array:
+5
+Enter elements:
+3
+2
+8
+9
+6
+f(3)	f(2)	f(8)	f(9)	f(6)	
+6	2	40320	362880	720	BUILD SUCCESSFUL (total time: 15 seconds)
